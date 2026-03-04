@@ -77,13 +77,7 @@ Research project focused on training a **Telugu transformer-based language model
 
 ---
 
-# 🐍 Contribution Snake Animation
 
-<p align="center">
-  <img src="https://github.com/pulipakav1/pulipakav1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 # 🌐 Connect
 
