@@ -67,5 +67,4 @@
 
 ## 🌐 Connect
 
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Email: your_email@email.com
+- Email: rohit.vpulipaka@gmail.com
