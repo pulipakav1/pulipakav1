@@ -36,28 +36,7 @@
 
 ---
 
-## 🚀 Featured ML/AI Projects (Project Cards)
 
-<p align="center">
-  <a href="https://github.com/pulipakav1/saas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulipakav1&repo=saas" />
-  </a>
-  <a href="https://github.com/pulipakav1/full_stack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulipakav1&repo=full_stack" />
-  </a>
-</p>
-
-<!-- Add/replace repos below with your ML/AI repos once final names are set -->
-<p align="center">
-  <a href="https://github.com/pulipakav1/demand-forecasting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulipakav1&repo=demand-forecasting" />
-  </a>
-  <a href="https://github.com/pulipakav1/rag-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulipakav1&repo=rag-system" />
-  </a>
-</p>
-
----
 
 ## 🔬 Research
 
