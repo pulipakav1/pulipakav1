@@ -1,171 +1,90 @@
+<!-- =======================
+     Animated Typing Banner
+     ======================= -->
+<p align="center">
+  <a href="https://github.com/pulipakav1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Building+ML+Pipelines%2C+LLM+Research%2C+and+AI+Products;Time-Series+Forecasting+%7C+RAG+Systems+%7C+Low-Resource+LLMs" />
+  </a>
+</p>
 
+<h1 align="center">Hi, I'm Sai Pulipaka 👋</h1>
 
-<!--
-**pulipakav1/pulipakav1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 MS in Data Science — Montclair State University &nbsp;•&nbsp; 🤖 Data Science / ML / AI &nbsp;•&nbsp; 📍 United States
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Rohit 👋
-
-🎓 MS in Data Science — Montclair State University  
-🤖 Machine Learning | AI | Data Science  
-📍 United States  
-
-I build **machine learning systems, AI-powered applications, and data-driven pipelines** that transform data into intelligent decision-making tools. My work focuses on **ML model development, large-scale experimentation, LLM research, and production ML systems**.
+<p align="center">
+  I build <b>machine learning systems</b>, <b>AI-powered applications</b>, and <b>data pipelines</b> that turn data into intelligent decision-making tools.
+</p>
 
 ---
 
-# 🚀 Machine Learning & AI Projects
+## 🏷️ ML/AI Tech Badges
 
-## 📊 Demand Forecasting ML Pipeline
-End-to-end machine learning pipeline forecasting retail demand using time-series modeling.
-
-**Tech Stack**  
-Python • Prophet • XGBoost • FastAPI • Docker • Pandas
-
-**Highlights**
-
-- Built a production-ready **time-series forecasting system**
-- Implemented **walk-forward cross-validation for robust evaluation**
-- Achieved **~8% MAPE forecasting accuracy**
-- Designed **model comparison framework (Prophet vs XGBoost)**
-- Exposed predictions through **FastAPI inference API**
-
-🔗 Repo: https://github.com/pulipakav1
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-1f77b4?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-3b82f6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-ffd54f?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-## 🤖 Retrieval-Augmented Generation (RAG) AI System
-AI-powered document intelligence system using retrieval-augmented generation.
+## 🚀 Featured ML/AI Projects (Project Cards)
 
-**Tech Stack**
+<p align="center">
+  <a href="https://github.com/pulipakav1/saas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulipakav1&repo=saas" />
+  </a>
+  <a href="https://github.com/pulipakav1/full_stack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulipakav1&repo=full_stack" />
+  </a>
+</p>
 
-Python • LangChain • OpenAI • ChromaDB • Embeddings
-
-**Highlights**
-
-- Built semantic document search using **vector embeddings**
-- Implemented **retrieval pipeline for contextual LLM responses**
-- Designed scalable **knowledge ingestion + query architecture**
-- Enabled AI-driven insights from large document collections
-
-🔗 Repo: https://github.com/pulipakav1
-
----
-
-## 📈 Multi-Tenant SaaS Analytics Platform
-Data analytics platform simulating SaaS business metrics across multiple tenants.
-
-**Tech Stack**
-
-Python • PostgreSQL • Redis • React • Node.js
-
-**Highlights**
-
-- Built analytics pipelines tracking **DAU, revenue, churn, and signups**
-- Implemented **ETL jobs for event aggregation**
-- Optimized queries using **Redis caching**
-- Built interactive analytics dashboard for multi-tenant data
-
-🔗 Repo: https://github.com/pulipakav1/saas
+<!-- Add/replace repos below with your ML/AI repos once final names are set -->
+<p align="center">
+  <a href="https://github.com/pulipakav1/demand-forecasting">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulipakav1&repo=demand-forecasting" />
+  </a>
+  <a href="https://github.com/pulipakav1/rag-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulipakav1&repo=rag-system" />
+  </a>
+</p>
 
 ---
 
-# 🔬 Research Work
+## 🔬 Research
 
-## 📄 LLM Fairness Drift Study
-Large-scale research project analyzing **bias and fairness drift across modern LLM families**.
-
-**Highlights**
-
-- Executed **50K+ model evaluation runs**
-- Benchmarked **5+ LLM families** (GPT, Claude, Gemini, LLaMA, Gemma)
-- Built distributed experimentation pipelines using **SLURM**
-- Conducted statistical analysis of **fairness drift across model versions**
-- Generated visualizations and metrics for **research publication**
+- **LLM Fairness Drift Study:** ran **50K+** evaluations across **5+ LLM families** (GPT, Claude, Gemini, LLaMA, Gemma); built distributed pipelines with **SLURM**.
+- **Telugu BabyLM:** trained a **GPT-2 style Telugu LLM** using **HuggingFace Transformers** on **A100 GPUs**, including preprocessing for low-resource corpora.
 
 ---
 
-## 🧠 Telugu BabyLM — Low-Resource Language Model
-Research project focused on training a **Telugu transformer language model** under the **BabyLM framework**.
-
-**Highlights**
-
-- Built preprocessing pipelines for **Telugu low-resource language datasets**
-- Trained **GPT-2 style transformer models** using HuggingFace Transformers
-- Conducted training experiments on **A100 GPU infrastructure**
-- Explored language modeling challenges for **low-resource languages**
-
-🔗 Repo: https://github.com/pulipakav1
-
----
-
-# 📊 Data Science Projects
-
-## 📉 Customer Churn Prediction
-Machine learning system predicting telecom customer churn.
-
-**Tech Stack**
-
-Python • scikit-learn • XGBoost • Pandas • Matplotlib
-
-**Highlights**
-
-- Built predictive models identifying **high-risk churn customers**
-- Performed **feature engineering and EDA**
-- Improved prediction accuracy through **model tuning and evaluation**
-- Delivered insights supporting **customer retention strategies**
-
----
-
-# 🛠 Technical Skills
-
-### Programming
-Python • SQL • Java • R
-
-### Machine Learning
-scikit-learn • XGBoost • Transformers • Time-Series Forecasting  
-Feature Engineering • Model Evaluation • Hyperparameter Tuning
-
-### Data Science
-Pandas • NumPy • Statistical Analysis • EDA • Data Visualization
-
-### AI & LLM Systems
-LangChain • RAG Pipelines • Vector Databases • Prompt Engineering
-
-### Data Engineering
-ETL Pipelines • Data Processing • PostgreSQL • MongoDB
-
-### Tools & Platforms
-Git • Docker • Linux • AWS
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pulipakav1&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pulipakav1&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulipakav1&layout=compact" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 🐍 Contribution Snake Animation
 
-GitHub  
-https://github.com/pulipakav1
-
-Email  
-rohit.vpulipaka@gmail.com
+<p align="center">
+  <img src="https://github.com/pulipakav1/pulipakav1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
-⭐ If you find my projects interesting, feel free to **star the repositories**.
+## 🌐 Connect
+
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
+- Email: your_email@email.com
