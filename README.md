@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Sai Pulipaka 👋</h1>
+<h1 align="center">Hi, I'm Rohit👋</h1>
 
 <p align="center">
 🎓 MS in Data Science — Montclair State University  
