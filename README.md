@@ -47,14 +47,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pulipakav1&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pulipakav1&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulipakav1&layout=compact" />
-</p>
-
----
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pulipakav1&layout=compact&theme=tokyonight)
+--
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
